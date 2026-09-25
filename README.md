@@ -41,3 +41,11 @@ Open a terminal in the project folder and run:
 
 ```bash
 python3 library_manager.py
+
+### Then your GitHub folder needs exactly:
+
+```text
+library-management-system
+├── book.py
+├── library_manager.py
+└── README.md
